@@ -1,0 +1,1 @@
+# flask-mecab-front
