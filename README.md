@@ -1,1 +1,2 @@
-# flask-mecab-front
+# Dockerfile for MeCab's FronEnd
+
